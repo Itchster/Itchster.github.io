@@ -3,31 +3,61 @@
     <title>Itchy Ramblings</title>
     <link href="https://itchster.github.io/feed.xml" rel="self" />
     <link href="https://itchster.github.io" />
-    <updated>2025-01-14T20:55:01+00:00</updated>
+    <updated>2025-01-14T21:11:49+00:00</updated>
     <author>
         <name>Itchster (Richard Wilson)</name>
     </author>
     <id>https://itchster.github.io</id>
 
     <entry>
-        <title>Test</title>
+        <title>Test 3 - The Return of the test</title>
+        <author>
+            <name>Itchster (Richard Wilson)</name>
+        </author>
+        <link href="https://itchster.github.io/test-3-the-return-of-the-test.html"/>
+        <id>https://itchster.github.io/test-3-the-return-of-the-test.html</id>
+        <media:content url="https://itchster.github.io/media/posts/4/61lagAxdgHL._AC_SL1080_.jpg" medium="image" />
+
+        <updated>2025-01-14T21:09:03+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://itchster.github.io/media/posts/4/61lagAxdgHL._AC_SL1080_.jpg" alt="" />
+                    Epic CODE TEST! class TestClass: Identifiable { var test: String = "This is a Test" }
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://itchster.github.io/media/posts/4/61lagAxdgHL._AC_SL1080_.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Epic CODE TEST!
+  </p>
+<pre class="line-numbers  language-html"><code>class TestClass: Identifiable {
+    var test: String = "This is a Test"
+}
+</code></pre>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Test 2 Test Harder</title>
         <author>
             <name>Itchster (Richard Wilson)</name>
         </author>
         <link href="https://itchster.github.io/test-2.html"/>
         <id>https://itchster.github.io/test-2.html</id>
-        <media:content url="https://itchster.github.io/media/posts/3/614h1SOgkpL._AC_SL1500_-2.jpg" medium="image" />
+        <media:content url="https://itchster.github.io/media/posts/3/IMG_0042.png" medium="image" />
 
         <updated>2025-01-14T20:36:38+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://itchster.github.io/media/posts/3/614h1SOgkpL._AC_SL1500_-2.jpg" alt="Evercade box art for Goodboy Galaxy / Witch N&#x27; Wiz" />
+                        <img src="https://itchster.github.io/media/posts/3/IMG_0042.png" alt="Evercade box art for Goodboy Galaxy / Witch N&#x27; Wiz" />
                     This is a test to see what happens, If you come across this ignore it! I'm just messing about!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://itchster.github.io/media/posts/3/614h1SOgkpL._AC_SL1500_-2.jpg" class="type:primaryImage" alt="Evercade box art for Goodboy Galaxy / Witch N&#x27; Wiz" /></p>
+                    <p><img src="https://itchster.github.io/media/posts/3/IMG_0042.png" class="type:primaryImage" alt="Evercade box art for Goodboy Galaxy / Witch N&#x27; Wiz" /></p>
                 
   <p>
     This is a test to see what happens, If you come across this ignore it! I'm just messing about!
@@ -42,15 +72,18 @@
         </author>
         <link href="https://itchster.github.io/test.html"/>
         <id>https://itchster.github.io/test.html</id>
+        <media:content url="https://itchster.github.io/media/posts/1/71Ko6OJlhL._AC_SL1500_.jpg" medium="image" />
 
         <updated>2025-01-14T20:20:10+00:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://itchster.github.io/media/posts/1/71Ko6OJlhL._AC_SL1500_.jpg" alt="" />
                     This is just a test
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://itchster.github.io/media/posts/1/71Ko6OJlhL._AC_SL1500_.jpg" class="type:primaryImage" alt="" /></p>
                 <p>This is just a test</p>
             ]]>
         </content>

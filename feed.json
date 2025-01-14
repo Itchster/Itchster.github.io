@@ -10,19 +10,34 @@
     },
     "items": [
         {
+            "id": "https://itchster.github.io/test-3-the-return-of-the-test.html",
+            "url": "https://itchster.github.io/test-3-the-return-of-the-test.html",
+            "title": "Test 3 - The Return of the test",
+            "summary": "Epic CODE TEST! class TestClass: Identifiable { var test: String = \"This is a Test\" }",
+            "content_html": "\n  <p>\n    Epic CODE TEST!\n  </p>\n<pre class=\"line-numbers  language-html\"><code>class TestClass: Identifiable {\n    var test: String = \"This is a Test\"\n}\n</code></pre>",
+            "image": "https://itchster.github.io/media/posts/4/61lagAxdgHL._AC_SL1080_.jpg",
+            "author": {
+                "name": "Itchster (Richard Wilson)"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-01-14T21:09:03+00:00",
+            "date_modified": "2025-01-14T21:09:03+00:00"
+        },
+        {
             "id": "https://itchster.github.io/test-2.html",
             "url": "https://itchster.github.io/test-2.html",
-            "title": "Test",
+            "title": "Test 2 Test Harder",
             "summary": "This is a test to see what happens, If you come across this ignore it! I'm just messing about!",
             "content_html": "\n  <p>\n    This is a test to see what happens, If you come across this ignore it! I'm just messing about!\n  </p>",
-            "image": "https://itchster.github.io/media/posts/3/614h1SOgkpL._AC_SL1500_-2.jpg",
+            "image": "https://itchster.github.io/media/posts/3/IMG_0042.png",
             "author": {
                 "name": "Itchster (Richard Wilson)"
             },
             "tags": [
             ],
             "date_published": "2025-01-14T20:36:38+00:00",
-            "date_modified": "2025-01-14T20:55:01+00:00"
+            "date_modified": "2025-01-14T21:11:49+00:00"
         },
         {
             "id": "https://itchster.github.io/test.html",
@@ -30,13 +45,14 @@
             "title": "Test",
             "summary": "This is just a test",
             "content_html": "<p>This is just a test</p>",
+            "image": "https://itchster.github.io/media/posts/1/71Ko6OJlhL._AC_SL1500_.jpg",
             "author": {
                 "name": "Itchster (Richard Wilson)"
             },
             "tags": [
             ],
             "date_published": "2025-01-14T20:20:10+00:00",
-            "date_modified": "2025-01-14T20:20:10+00:00"
+            "date_modified": "2025-01-14T21:06:34+00:00"
         }
     ]
 }
