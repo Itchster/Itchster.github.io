@@ -3,7 +3,7 @@
     <title>Itchy Ramblings</title>
     <link href="https://itchster.github.io/feed.xml" rel="self" />
     <link href="https://itchster.github.io" />
-    <updated>2025-01-14T20:36:38+00:00</updated>
+    <updated>2025-01-14T20:55:01+00:00</updated>
     <author>
         <name>Itchster (Richard Wilson)</name>
     </author>
@@ -16,21 +16,19 @@
         </author>
         <link href="https://itchster.github.io/test-2.html"/>
         <id>https://itchster.github.io/test-2.html</id>
+        <media:content url="https://itchster.github.io/media/posts/3/614h1SOgkpL._AC_SL1500_-2.jpg" medium="image" />
 
         <updated>2025-01-14T20:36:38+00:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://itchster.github.io/media/posts/3/614h1SOgkpL._AC_SL1500_-2.jpg" alt="Evercade box art for Goodboy Galaxy / Witch N&#x27; Wiz" />
                     This is a test to see what happens, If you come across this ignore it! I'm just messing about!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://itchster.github.io/media/posts/3/614h1SOgkpL._AC_SL1500_-2.jpg" class="type:primaryImage" alt="Evercade box art for Goodboy Galaxy / Witch N&#x27; Wiz" /></p>
                 
-    <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://itchster.github.io/media/posts/3/614h1SOgkpL._AC_SL1500_.jpg" height="1090" width="694" alt="Evercade box art for Goodboy Galaxy / Witch N' Wiz"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://itchster.github.io/media/posts/3/responsive/614h1SOgkpL._AC_SL1500_-xs.jpg 300w ,https://itchster.github.io/media/posts/3/responsive/614h1SOgkpL._AC_SL1500_-sm.jpg 480w ,https://itchster.github.io/media/posts/3/responsive/614h1SOgkpL._AC_SL1500_-md.jpg 768w ,https://itchster.github.io/media/posts/3/responsive/614h1SOgkpL._AC_SL1500_-lg.jpg 1024w ,https://itchster.github.io/media/posts/3/responsive/614h1SOgkpL._AC_SL1500_-xl.jpg 1360w ,https://itchster.github.io/media/posts/3/responsive/614h1SOgkpL._AC_SL1500_-2xl.jpg 1600w">
-      
-    </figure>
-
   <p>
     This is a test to see what happens, If you come across this ignore it! I'm just messing about!
   </p>
